@@ -1,0 +1,1 @@
+Li F, Gao L, Garg A, et al. Two infill criteria driven surrogate-assisted multi-objective evolutionary algorithms for computationally expensive problems with medium dimensions[J]. Swarm and Evolutionary Computation, 2021, 60: 100774.
